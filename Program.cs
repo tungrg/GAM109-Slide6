@@ -23,6 +23,8 @@ public class Program
         Console.WriteLine(intList.Count);
         Console.WriteLine(check.ElementAt(0));
         
+        Console.WriteLine(check.ElementAt(1));
+        Console.WriteLine(check.ElementAt(2));
 
     }
 }
