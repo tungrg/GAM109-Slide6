@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Slide6
 {
-    internal class Brand
+    internal partial class Brand
     {
         public int id;
         public string name1234;
