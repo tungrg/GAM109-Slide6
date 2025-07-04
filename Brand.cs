@@ -9,11 +9,11 @@ namespace Slide6
     internal class Brand
     {
         public int id;
-        public string brandName;
+        public string name1234;
         public Brand(int id, string brandName)
         {
             this.id = id;
-            this.brandName = brandName;
+            this.name1234 = brandName;
         }
     }
 }
